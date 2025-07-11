@@ -10,13 +10,6 @@ No external packages required — runs natively on any Linux system with Python 
 - GUI built with `tkinter` (standard library)
 - Multithreaded scanning (non-blocking GUI)
 
-## 🚀 Usage
-
-### ▶️ Run the scanner:
-```bash
-python3 port_scanner_gui.py
-```
-
 ### 🖥️ GUI Interface:
 1. Enter the **IP address or domain name**
 2. Choose a **start port** and **end port**
@@ -27,14 +20,6 @@ python3 port_scanner_gui.py
 - Python 3.x
 - Linux (tested on Ubuntu/Debian/Fedora)
 - No external dependencies!
-
-## 📁 File Structure
-| File | Purpose |
-|------|---------|
-| `port_scanner_gui.py` | Main script with GUI |
-| `.gitignore` | Ignore system/cache files |
-| `LICENSE` | MIT license |
-| `README.md` | Project documentation |
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
